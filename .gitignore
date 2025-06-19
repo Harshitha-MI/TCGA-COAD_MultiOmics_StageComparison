@@ -1,0 +1,12 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# MacOS system file
+.DS_Store
+
+# Large data files
+*.rds
+*.RData
+
